@@ -18,4 +18,6 @@
         </activity>
     </application>
 
+    <!--Permisos-->
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </manifest>
